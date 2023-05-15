@@ -1,0 +1,14 @@
+body {
+  background-image: url("../assets/MainPageBG.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.buttons {
+  float: right;
+}
+.buttons > button {
+  background-color: transparent;
+  border-color: transparent;
+  color: white;
+}
